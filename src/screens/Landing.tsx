@@ -4,7 +4,7 @@ import React from 'react';
 const Landing = () => {
   return (
     <View>
-      <Text>Landing</Text>
+      <Text className="text">Landing</Text>
     </View>
   );
 };
